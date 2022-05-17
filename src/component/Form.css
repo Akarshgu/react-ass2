@@ -1,0 +1,79 @@
+
+
+body{
+    
+    background-image: linear-gradient(
+        to bottom,
+        dodgerblue,
+         pink,
+         rgba(255, 255, 0, 0.512)
+    );
+    height: 95vh;
+}
+.main-h1{
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+    font-size: 35px;
+
+}
+.container{
+    background-color: whitesmoke;
+    width: 400px;
+    height: 180px;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 50px auto 0;
+    text-align: center;
+    box-shadow: 0 0 7px 5px grey;
+    }
+.main{
+    font-size: 20px;
+    font-weight: 700;
+}
+.main1{
+    padding-right: 60px;
+}
+.main3{
+    padding-right: 60px;
+}
+.main_name{
+    width: 50%;
+    padding: 8px;
+    margin: 5px;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: rgba(10, 206, 246, 0.374);
+}
+.submit1{
+    width: 30%;
+    padding: 8px;
+    margin: 5px;
+    border-radius: 25px;
+    background-color: rgba(255, 0, 0, 0.863);
+    border: 0;
+    color: white;
+    box-shadow: 2px 2px 2px 2px grey;
+}
+.result-mainpart{
+    border: 0 solid black;
+    background-color: rgba(137, 43, 226, 0.753);
+    margin-top: 20px;
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.result-popup{
+    border: 2px solid black;
+    background-color:rgba(172, 255, 47, 0.947);
+    width: 350px;
+    height: 50px;
+    border-radius: 15px;
+    margin: 20px;
+    margin-left: 60px;
+    text-align: center;
+    padding: auto;
+    
+
+}
